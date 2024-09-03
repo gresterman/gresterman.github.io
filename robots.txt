@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gresterman.github.io/sitemap.html.gz
+Sitemap: https://gresterman.github.io/app/sitemap.html.gz
+Sitemap: https://gresterman.github.io/assets/sitemap.html.gz
+Sitemap: https://gresterman.github.io/css/sitemap.html.gz
+Sitemap: https://gresterman.github.io/includes/sitemap.html.gz
+Sitemap: https://gresterman.github.io/item/sitemap.html.gz
+Sitemap: https://gresterman.github.io/src/sitemap.html.gz
